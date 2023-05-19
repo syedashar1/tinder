@@ -1,0 +1,41 @@
+{
+  "expo": {
+    "name": "tinder-new",
+    "slug": "tinder-new",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/icon.png",
+    "userInterfaceStyle": "light",
+    "splash": {
+      "image": "./assets/splash.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/adaptive-icon.png",
+        "backgroundColor": "#ffffff"
+      },
+      "package": "host.exp.exponent"
+    },
+    "web": {
+      "favicon": "./assets/favicon.png"
+    },
+    "extra": {
+      "eas": {
+        "projectId": "8a1f8151-a69f-48c1-8736-d475631f2ff0"
+      }
+    },
+    "resolutions": {
+      "@expo/config-plugins": "~4.1.0",
+      "@expo/prebuild-config": "~4.0.0",
+      "expo-modules-autolinking": "0.9.0"
+    }
+  }
+}

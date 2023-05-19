@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "49886141206",
+    "project_id": "my-tinder-native",
+    "storage_bucket": "my-tinder-native.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:49886141206:android:943770ef0aaadb093f8e37",
+        "android_client_info": {
+          "package_name": "host.exp.exponent"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "49886141206-p2ek233qd23ntf9jielv9t117jcnbu98.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBl-iMukVux7YoXSWKOjdHkayAy9fUH-M0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "49886141206-p2ek233qd23ntf9jielv9t117jcnbu98.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
